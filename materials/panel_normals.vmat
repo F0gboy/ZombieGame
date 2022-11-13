@@ -1,0 +1,11 @@
+
+Layer0
+{
+	shader "complex.vfx"
+
+	TextureColor "materials/panel_normals.png"
+	TextureAmbientOcclusion "materials/panel_baked_ao.png"
+	TextureNormal "materials/panel_normals.png"
+	TextureRoughness "materials/panel_roughness.png"
+
+}
